@@ -1,0 +1,21 @@
+I have been hanging around the Tech scene since 2016 with no reasonable impact or outcome.
+
+Over the years, I have tried my hands in various technologies and programming languages, I have at one point or the other do minor stuff with HTML, CSS, JavaScript, Node.Js and Express, Angular, React, Java, JavaFX, JSP, Servlet, Hibernate, Spring, Android Development with Java, Ionic, MySQL, WordPress, MSSQL Server, MongoDB, Flutter,  Heroku, Git, GitHub, GCP.
+
+I have an understanding of some concept in tech and software development, like cloud computing, version control, Object relation mapping, project management and some basic things.
+
+I think I am a typical example of Jack of all trade master of none.
+
+Some junior developers who started programming after me, some who I assisted in debugging their codes at some point in the begining of their career have gotten jobs and are now heading towards becoming a senior developer.
+They still look at me as a master to them but deep down, I know I don't know shit. I attend local meetups around me in Lagos here and try to be a part of Tech events around me but I don't  get involved.
+
+I am just hovering around, there's nothing to show for almost five years of my hanging around the Tech scene.
+I don't have any reasonable project I can show, my portfolio https://ifejesu.github.io is just filled with nonsense.
+
+I have been jumping up and down all these years, I have moved from different minor jobs to another, although, I have acquired a lot of soft skills over the years and I can boast of being able to work in any team because of my experiences with different sectors but I still don't have fulfillment, I really want to have relevant impact in software development and be able to sort my bills.
+
+Right now, I am confused but I want to get at least an entry-level role or an internship as a software engineer and I am giving my self within the next 3 months to achieve that.
+
+I need advice from you leaders to help me, I actually have passion for software development and I love discussing about Tech but I don't know what my problem is.
+
+Please help me.
